@@ -1,6 +1,6 @@
 # GrowLocal
 
-GrowLocal helps local businesses in Marinduque attract customers through referrals and shop-created vouchers. Customers earn shop-specific referral codes through visits and share them with eligible friends. When a friend uses a code and completes a qualifying checkout, the friend can use the shop's offer in that checkout, gets their own referral code, and the referrer earns a voucher for a later visit.
+GrowLocal helps local businesses in Marinduque attract customers through referrals rewarded with shop-created vouchers. Customers earn shop-specific referral codes through visits and share them with eligible friends. When a friend uses a code and completes a qualifying checkout, the friend can use the shop's offer in that checkout, gets their own referral code, and the referrer earns a voucher for a later visit.
 
 Vouchers are not money, cashbacks, or wallet credits. Each shop defines the offer in its own words—for example, “10% off rebond (up to ₱100).” GrowLocal records and presents the offer; the shop is responsible for interpreting and honoring its terms. Earned vouchers belong to the customer, cannot be transferred, and expire one year after issue.
 
